@@ -1,0 +1,4 @@
+Location Alarm
+Name Alarm
+Trait ALARM
+Scale 0.05 0.05

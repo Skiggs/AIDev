@@ -1,0 +1,7 @@
+Location Knife
+Name Knife
+Trait PICKABLE
+Trait THROWABLE
+Trait MELEE
+Trait PHYSICALLYDAMAGEABLE
+Scale 0.12 0.12

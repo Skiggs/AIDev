@@ -1,0 +1,7 @@
+Location grenade
+Name grenade
+Trait PICKABLE
+Trait THROWABLE
+Trait PHYSICALLYDAMAGEABLE
+Trait EXPLODESONHIT
+Scale 0.1 0.1

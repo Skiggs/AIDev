@@ -1,0 +1,130 @@
+﻿  MainMenu.cpp
+c:\users\user\desktop\physics\physics\node.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\enemy.h(63): warning C4099: 'EnemyStatesData': type name first seen using 'struct' now seen using 'class'
+  c:\users\user\desktop\physics\physics\enemystate.h(8): note: see declaration of 'EnemyStatesData'
+c:\users\user\desktop\physics\physics\mathfunc.h(8): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(63): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mathfunc.h(107): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\physics\physics\mathfunc.h(108): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\physics\physics\pathfinder.h(17): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+c:\users\user\desktop\physics\physics\pathfinder.h(35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\physics\physics\mainmenu.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\physics\physics\mainmenu.cpp(68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(321): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(356): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(475): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(477): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(611): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(630): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(673): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(681): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(704): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(712): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(745): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(746): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(761): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(769): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(795): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1631): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1632): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1675): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1676): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1705): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1711): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1727): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1738): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1749): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1755): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1830): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1864): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1898): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1936): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1945): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1953): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(1975): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(2213): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(2248): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\physics\physics\mainmenu.cpp(2280): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(172): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+  c:\users\user\desktop\physics\physics\mainmenu.cpp(1748): note: see reference to function template instantiation 'std::pair<float,std::pair<int,Item *>>::pair<int,std::pair<int,nullptr>,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=std::pair<int,nullptr>
+          ]
+  c:\users\user\desktop\physics\physics\mainmenu.cpp(1748): note: see reference to function template instantiation 'std::pair<float,std::pair<int,Item *>>::pair<int,std::pair<int,nullptr>,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=std::pair<int,nullptr>
+          ]
+  Generating code
+  60 of 2435 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Physics.vcxproj -> C:\Users\User\Desktop\Physics\Release\Physics.exe

@@ -1,0 +1,7 @@
+Location SpoiledSandwich
+Name SpoiledSandwich
+Trait STINKS
+Trait PICKABLE
+Trait THROWABLE
+Trait CONSUMABLE
+Scale 0.1 0.1

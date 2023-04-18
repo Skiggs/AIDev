@@ -1,0 +1,7 @@
+Location Medkit
+Name Medkit
+Trait PICKABLE
+Trait THROWABLE
+Trait CONSUMABLE
+Trait HEALTHBOOST
+Scale 0.25 0.25

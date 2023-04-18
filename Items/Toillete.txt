@@ -1,0 +1,5 @@
+Location toilet
+Name Toillete
+Trait STINKS
+Trait TOILET
+Scale 0.2 0.2

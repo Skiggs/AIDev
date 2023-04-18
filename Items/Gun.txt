@@ -1,0 +1,8 @@
+Location Gun
+Name Gun
+Trait PICKABLE
+Trait THROWABLE
+Trait MELEE
+Trait PHYSICALLYDAMAGEABLE
+Trait HOLDANDSHOOT
+Scale 0.12 0.12
